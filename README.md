@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Hello, my name is urain39!
 
-I am a developer who like to writing programs in Python and JavaScript :)
+I am a developer who like to writing programs in Python, JavaScript, and C-Like Languages :)
